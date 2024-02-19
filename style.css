@@ -1,7 +1,13 @@
-.button {
-    background: radial-gradient(circle, rgba(240,230,140,1) 0%, rgba(187,96,33,0.9542191876750701) 100%);
+header {
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.start {
+    background: radial-gradient(circle, rgb(76, 45, 143) 0%, rgba(22, 92, 133, 0.954) 100%);
     border-radius: 8px;
-    color: #13293d;
+    color: #ffffff;
     cursor: pointer;
     font-size: 2em;
     letter-spacing: 0.21px;
@@ -15,6 +21,15 @@
     margin-top: 0.6em;
 }
 
-.intro {
-    align-items: center;
+.timer {
+    float: right;
+    padding-right: 10px;
+}
+
+.highscores {
+    float: left;
+}
+
+.answers {
+    display: none;
 }

@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To test your knowledge on 
+To create a quiz template with highscore trackers and a timer functionality. 
 
 ## Credits
 

@@ -1,3 +1,8 @@
+var timer = document.querySelector("timer")
+
+function startButton
+
+function answerbutton
 
 
 var countdown = function(num) {
