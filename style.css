@@ -31,9 +31,10 @@ header {
 }
 
 .answers {
-    
+   visibility: hidden;
+  
 }
 
 .question-container {
-    
+    visibility: hidden;
 }
